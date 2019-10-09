@@ -1,2 +1,9 @@
 # kareo
 Kareo web Integration
+
+
+ADD these in .env
+
+KAREO_USER=<USERNAME>
+KAREO_PASSWORD=<PASSWORD>
+KAREO_CUSTOMERKEY=<CUSTOMERKEY>
