@@ -2,8 +2,7 @@
     "name": "mohammadmohsinlaeeque/kareo",
     "description": "Kareo API SDK for Integrations and services calling in php",
     "license": "MIT",
-    "version": "1.0.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "prefer-stable": true,
     "keywords": [
         "Kareo",
